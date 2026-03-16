@@ -23,13 +23,13 @@ const Login = () => {
         }
         }
         className="flex flex-col items-center justify-center">
-          <input
+          {/* <input
           value={email}
           onChange={(e)=>{
             setEmail(e.target.value)
             console.log(e.target.value)
           }}
-          required className="border-2 border-emerald-500 rounded-2xl p-2 m-3 text-2xl outline-none " type="email" placeholder="Enter your email" />
+          required className="border-2 border-emerald-500 rounded-2xl p-2 m-3 text-2xl outline-none " type="email" placeholder="Enter your email" /> */}
           <input
           value={password}
           onChange={(e)=>{
