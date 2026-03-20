@@ -39,7 +39,6 @@ const Login = () => {
           <button className="border-2 border-emerald-600 rounded-2xl py-2 px-6 m-3 text-xl outline-none bg-emerald-600" >Log in</button>
         </form>
       </div>
-      <h1>Hello</h1>
     </div>
   );
 };
